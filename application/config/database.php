@@ -196,13 +196,13 @@ $db['default'] = array(
 
 	'dsn'	=> '',
 
-	'hostname' => 'baliwag.gov.ph',
+	'hostname' => 'us-cdbr-east-06.cleardb.net',
 
-	'username' => 'baliwags_pos',
+	'username' => 'b15cafacaccb1d',
 
-	'password' => 'Pos123!@#',
+	'password' => '097bef09',
 
-	'database' => 'baliwags_pos_db',
+	'database' => '	heroku_2578d0ef3714d61',
 
 	'dbdriver' => 'mysqli',
 
