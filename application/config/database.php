@@ -196,7 +196,7 @@ $db['default'] = array(
 
 	'dsn'	=> '',
 
-	'hostname' => 'baliwag.gov.ph',
+	'hostname' => 'localhost',
 
 	'username' => 'baliwags_pos',
 
