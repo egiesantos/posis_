@@ -202,7 +202,7 @@ $db['default'] = array(
 
 	'password' => '097bef09',
 
-	'database' => '	heroku_2578d0ef3714d61',
+	'database' => 'heroku_2578d0ef3714d61',
 
 	'dbdriver' => 'mysqli',
 
