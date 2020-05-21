@@ -196,7 +196,7 @@ $db['default'] = array(
 
 	'dsn'	=> '',
 
-	'hostname' => '50.62.27.135',
+	'hostname' => 'baliwag.gov.ph',
 
 	'username' => 'baliwags_pos',
 
