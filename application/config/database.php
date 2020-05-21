@@ -196,13 +196,13 @@ $db['default'] = array(
 
 	'dsn'	=> '',
 
-	'hostname' => 'localhost',
+	'hostname' => 'baliwag.gov.ph',
 
-	'username' => 'root',
+	'username' => 'baliwags_pos',
 
-	'password' => '',
+	'password' => 'Pos123!@#',
 
-	'database' => 'pos_db',
+	'database' => 'baliwags_pos_db',
 
 	'dbdriver' => 'mysqli',
 
